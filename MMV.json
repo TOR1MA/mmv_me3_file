@@ -1,0 +1,10 @@
+{
+  "savefile": "NR0000.co2",
+  "start_online": true,
+  "disable_arxan": true,
+  "native": [
+    "MMV-Launcher/mod",
+    "MMV-Launcher/mod/ServerRedirector/cl_server_redirector.dll",
+    "MMV-Launcher/mod/dll/custom_drop_fxrs.dll"
+  ]
+}
