@@ -1,7 +1,7 @@
 {
   "savefile": "NR0000.co2",
-  "online": true,
-  "disable-arxan": true,
+  "online": "true",
+  "disable-arxan": "true",
   "native": [
     "MMV-Launcher/mod",
     "MMV-Launcher/mod/ServerRedirector/cl_server_redirector.dll",
