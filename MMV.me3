@@ -7,12 +7,12 @@ disable_arxan = true
 game = "nightrein"
 
 [[packages]] 
-path = 'MMV-Launcher/mod'
+path = '../MMV-Launcher/mod'
 
 [[natives]] 
-path = 'MMV-Launcher/mod/ServerRedirector/cl_server_redirector.dll'
+path = '../MMV-Launcher/mod/ServerRedirector/cl_server_redirector.dll'
 load_early = true
 
 [[natives]] 
-path = 'MMV-Launcher/mod/dll/custom_drop_fxrs.dll'
+path = '../MMV-Launcher/mod/dll/custom_drop_fxrs.dll'
 load_early = true
