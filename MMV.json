@@ -1,6 +1,6 @@
 {
   "savefile": "NR0000.co2",
-  "start_online": true,
+  "online": true,
   "disable_arxan": true,
   "native": [
     "MMV-Launcher/mod",
