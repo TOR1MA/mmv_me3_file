@@ -1,0 +1,30 @@
+profileVersion = "v1"
+savefile = "NR0000.co2"
+start_online = true
+disable_arxan = true
+
+[[supports]]
+game = "nightrein"
+
+[[packages]] 
+path = 'mod'
+
+[[packages]] 
+path = 'nightreign-mods\skins'
+
+[[natives]] 
+path = 'mod/ServerRedirector/cl_server_redirector.dll'
+load_early = true
+
+[[natives]] 
+path = 'mod/dll/custom_drop_fxrs.dll'
+load_early = true
+
+[[natives]] 
+path = 'nightreign-mods\VisionOfNightreign.dll'
+
+[[natives]] 
+path = 'nightreign-mods\NightreignFPSFOV.dll'
+
+[[natives]] 
+path = 'nightreign-mods\NightreignTideTimer.dll'
