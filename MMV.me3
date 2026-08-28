@@ -10,7 +10,7 @@ game = "nightrein"
 path = '../MMV-Launcher/mod'
 
 [[packages]] 
-path = '../additional_mods'
+path = '../additional_mods/active'
 load_early = true
 
 [[natives]] 
