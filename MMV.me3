@@ -7,6 +7,9 @@ disable_arxan = true
 game = "nightrein"
 
 [[packages]] 
+path = '../additional_mods'
+
+[[packages]] 
 path = '../MMV-Launcher/mod'
 
 [[natives]] 
