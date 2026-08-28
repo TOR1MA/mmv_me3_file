@@ -7,10 +7,11 @@ disable_arxan = true
 game = "nightrein"
 
 [[packages]] 
-path = '../additional_mods'
+path = '../MMV-Launcher/mod'
 
 [[packages]] 
-path = '../MMV-Launcher/mod'
+path = '../additional_mods'
+load_early = true
 
 [[natives]] 
 path = '../MMV-Launcher/mod/ServerRedirector/cl_server_redirector.dll'
