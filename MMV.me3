@@ -14,17 +14,17 @@ path = '../additional_mods/active'
 load_early = true
 
 [[natives]] 
-path = '../dll/ServerRedirector/cl_server_redirector.dll'
+path = '../MMV-Launcher/dll/ServerRedirector/cl_server_redirector.dll'
 load_early = true
 
 [[natives]] 
-path = '../dll/custom_drop_fxrs.dll'
+path = '../MMV-Launcher/dll/custom_drop_fxrs.dll'
 load_early = true
 
 [[natives]] 
-path = '../dll/unlock_wwise_states_nr.dll'
+path = '../MMV-Launcher/dll/unlock_wwise_states_nr.dll'
 load_early = true
 
 [[natives]]
-path = '../dll/target/release/nrallinone.dll'
+path = '../MMV-Launcher/dll/target/release/nrallinone.dll'
 load_early = true
