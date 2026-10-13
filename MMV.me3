@@ -28,3 +28,11 @@ load_early = true
 [[natives]]
 path = '../MMV-Launcher/dll/target/release/nrallinone.dll'
 load_early = true
+
+[[natives]]
+path = '../MMV-Launcher/dll/target/release/RestoredLegendaryStones.dll'
+load_early = true
+
+[[natives]]
+path = '../MMV-Launcher/dll/target/release/ChanceSetter.dll'
+load_early = true
